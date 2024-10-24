@@ -1,6 +1,27 @@
 # Front-End-Interview-Questions
 
-### 1. Polling vs webhooks
+### 1. How to improve website performance: faster loading tips
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### 
+1. Use a Content Delivery Network (CDN) ...
+2. Move your website to a better host. ...
+3. Optimize the size of images on your website. ...
+4. Reduce the number of plugins. ...
+5. Minimize the number of JavaScript and CSS files. ...
+6. Use website caching. ...
+7. Implement GZIP compression.
+8. Reduce the use of web fonts.
+
+
+</p>
+</details>
+
+---
+
+### 2. Polling vs webhooks
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -45,7 +66,7 @@ Polling can be resource-intensive and you need to make calls on whether the effo
 
 ---
 
-### 2. Webhooks
+### 3. Webhooks
 
 <details><summary><b>Answer</b></summary>
 <p>
